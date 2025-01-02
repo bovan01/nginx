@@ -1,7 +1,7 @@
 displayName: nginx
 description: Nginx is an ingress controller.
 category:
-  - Registries
+  - 'Ingress Controllers'
 type: catalog
 allowMultipleInstances: false
 scope:
