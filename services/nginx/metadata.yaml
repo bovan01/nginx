@@ -1,0 +1,11 @@
+displayName: nginx
+description: Nginx is an ingress controller.
+category:
+  - Registries
+type: catalog
+allowMultipleInstances: false
+scope:
+  - project
+overview: |-
+  Nginx is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.
+icon:
