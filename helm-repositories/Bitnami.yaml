@@ -8,5 +8,5 @@ metadata:
   labels:
     kommander.d2iq.io/dkp-airgapped: unsupported
 spec:
-  url: ${helmMirrorURL:=https://github.com/bitnami/charts/tree/main/bitnami}
+  url: ${helmMirrorURL:=https://charts.bitnami.com/bitnami}
   interval: 5m
